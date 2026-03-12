@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alejandro 
 
-<!--
-**alejandromh2004/alejandromh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student (UIB)
+💻 Interested in Project/Product management, software engineering and team work 
 
-Here are some ideas to get you started:
+## Tech
+- Python
+- Java
+- C
+- Microsoft Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Assambler videogame for Computer Structures II
+- Tetris videogame using graphic interfices in Java
+- Emulated minishell in C
+- Emulated file management sistem in C
+- Learning and Optimization AI algorithms
